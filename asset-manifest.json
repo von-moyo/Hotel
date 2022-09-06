@@ -1,16 +1,36 @@
 {
   "files": {
-    "main.css": "/Hotel/static/css/main.073c9b0a.css",
-    "main.js": "/Hotel/static/js/main.4661e159.js",
+    "main.css": "/Hotel/static/css/main.9cd23a27.css",
+    "main.js": "/Hotel/static/js/main.3afe9a86.js",
     "static/js/787.48a3adfe.chunk.js": "/Hotel/static/js/787.48a3adfe.chunk.js",
-    "static/media/logo.svg": "/Hotel/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/image14.png": "/Hotel/static/media/image14.c9aa09ecacb812e2e787.png",
+    "static/media/image7.jpg": "/Hotel/static/media/image7.3401b4c0f2176013ad51.jpg",
+    "static/media/image5.jpg": "/Hotel/static/media/image5.dfe75aa20ef2de8bdf45.jpg",
+    "static/media/image1.jpg": "/Hotel/static/media/image1.b0a1af20ded1851ad97e.jpg",
+    "static/media/image2.jpg": "/Hotel/static/media/image2.da8e1ba256a651f89d24.jpg",
+    "static/media/image16.png": "/Hotel/static/media/image16.9bc9a488a6e9b8f87685.png",
+    "static/media/image3.jpg": "/Hotel/static/media/image3.245cb222903e3dc0a765.jpg",
+    "static/media/image13.jpg": "/Hotel/static/media/image13.7b7df4150a4c0dba5259.jpg",
+    "static/media/image11.jpg": "/Hotel/static/media/image11.da08f712137b949a3d6c.jpg",
+    "static/media/image10.jpg": "/Hotel/static/media/image10.15b2ac65751e3cef1dd8.jpg",
+    "static/media/image12.jpg": "/Hotel/static/media/image12.67fbc92f46b2ab24693c.jpg",
+    "static/media/image9.jpg": "/Hotel/static/media/image9.dc9387101e5f0787206c.jpg",
+    "static/media/image8.jpg": "/Hotel/static/media/image8.dcf01d8ad57a8c342498.jpg",
+    "static/media/webafrica.svg": "/Hotel/static/media/webafrica.cf944aed9ea741066b15da06da4f036e.svg",
+    "static/media/forbes.svg": "/Hotel/static/media/forbes.3e153a3bb8b3b242d0e167f9dca659ab.svg",
+    "static/media/logo copy.svg": "/Hotel/static/media/logo copy.9858115adbdf58c63fdeb7c8ed9e1a8f.svg",
+    "static/media/newsweek.svg": "/Hotel/static/media/newsweek.02f62fdf129dcf1f7e47d9e729e9d05c.svg",
+    "static/media/phone-icon.svg": "/Hotel/static/media/phone-icon.ce1581d976538073c30ac15df51ad437.svg",
+    "static/media/twitter.svg": "/Hotel/static/media/twitter.65fb0b921c719eacf3e9067432c02c0b.svg",
+    "static/media/naira.svg": "/Hotel/static/media/naira.f0d2ddcd13d299d8da2f0c3c3bda4dc2.svg",
+    "static/media/person.svg": "/Hotel/static/media/person.ce761433b8fbf3fbacff27d8fcc87551.svg",
     "index.html": "/Hotel/index.html",
-    "main.073c9b0a.css.map": "/Hotel/static/css/main.073c9b0a.css.map",
-    "main.4661e159.js.map": "/Hotel/static/js/main.4661e159.js.map",
+    "main.9cd23a27.css.map": "/Hotel/static/css/main.9cd23a27.css.map",
+    "main.3afe9a86.js.map": "/Hotel/static/js/main.3afe9a86.js.map",
     "787.48a3adfe.chunk.js.map": "/Hotel/static/js/787.48a3adfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.4661e159.js"
+    "static/css/main.9cd23a27.css",
+    "static/js/main.3afe9a86.js"
   ]
 }
